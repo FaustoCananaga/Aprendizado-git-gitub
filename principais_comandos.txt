@@ -1,0 +1,7 @@
+Os principais comandos são:
+git status -> para ver o estado dos aquivos criados e modificados
+git add index.txt -> para adicionar o ficheiro index.txt pronto para ser salvo (Comitado)
+git add . -> que faz o passo anterior para todos os arquivos
+git commit -m "O que foi alterado" -> Salva 
+
+Se criar um arquivo .gitignore todos os arquivos que estarem neste arquivos não vão subir para o git com o commit

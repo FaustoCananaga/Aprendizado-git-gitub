@@ -1,0 +1,9 @@
+Aqui aprendemos como criar uma brancs e como manipular
+git branch Nova_brinch -> Cria uma brinch chamada Nova_brinch
+git checkout Nova_brinch -> Mudar para trabalhar na brinch Nova_brinch
+git checkout -b Nova_brinch -> Cria e Muda para trabalhar na branch Nova_brinch
+
+git checkout master -> Mudar para trabalhar na brinch master
+git merge Nova_brinch -> Adiciona todos os arquivos da branch Nova_brinch para branch actual (master)
+
+git branch -D Nova_brinch -> Apaga a branch Nova_brinch

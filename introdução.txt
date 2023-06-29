@@ -1,0 +1,1 @@
+Aqui falamos de como o Git é importante na vida de um programador, com o controle de versões.

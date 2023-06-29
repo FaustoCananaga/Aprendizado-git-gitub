@@ -1,0 +1,10 @@
+Para conectar um projecto com o GitHub é simplefa-spin
+1- criar um repositório no GitHub 
+2- Executar os seguintes comando no directorio do projecto:
+
+git init  -> inicia o Git
+git add README.md -> Criar um arquivo Readme para aparecer na página do projecto lá no GitHub
+git commit -m "first commit" -> fazer um commit, ou seja salvar no Git
+git branch -M main  -> Criar uma branch para subir no Github
+git remote add origin "https://github.com/FaustoCananaga/Nome_do_projecto.git" -> Linkar com o seu projecto Github
+git push -u origin main  -> Subir as alterações no Git GitHub

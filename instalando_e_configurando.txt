@@ -1,0 +1,1 @@
+A instalação do git é simpes, basta acessar o sit e baixar o arquivo .exe e instalar, para usar em um projecto é mediante ao comando git init
