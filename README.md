@@ -1,0 +1,1 @@
+Projecto aprendendo Git e Github para me tornar um programador JavaScript Full Stack
